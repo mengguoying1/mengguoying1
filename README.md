@@ -5,6 +5,5 @@
 - 📫 How to reach me? call:17596555979
 
 <!---
-mengguoying1/mengguoying1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Learn together and struggle together!
 --->
